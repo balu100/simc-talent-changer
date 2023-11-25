@@ -6,6 +6,8 @@ This tool is designed to switch Tier 31 talents to dungeon talents in Simulation
 
 Follow these steps to use the SimC Talent Changer:
 
+0. **Download SimulationCraft:**
+   Download the latest version of SimulationCraft from the [nightly builds](http://downloads.simulationcraft.org/nightly/?C=M;O=D) page.
 1. **Copy Files:**
    Copy all items from this repository into the `profiles/Tier31` directory of your SimulationCraft installation.
 
