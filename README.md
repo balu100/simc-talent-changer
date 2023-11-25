@@ -17,3 +17,11 @@ Follow these steps to use the SimC Talent Changer:
 
    ```powershell
    ./MythicTalentHelper.ps1
+
+## Important Note
+
+This tool is for dungeon scenarios in SimulationCraft. Stay informed about Mythic+ talents for accurate simulations.
+
+Contribute, report issues, or suggest improvements by creating a pull request or opening an issue.
+
+Happy simulating!
